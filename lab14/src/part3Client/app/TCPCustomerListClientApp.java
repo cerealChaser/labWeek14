@@ -19,7 +19,7 @@ import part3Model.Customer;
  *    from the server.
  * 2. Display the details of the client in alphabetical order.
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class TCPCustomerListClientApp {
 

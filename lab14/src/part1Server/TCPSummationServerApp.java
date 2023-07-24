@@ -14,7 +14,7 @@ import part1controller.NumberCalculator;
  *     and multiplication of three numbers received from the client.
  * It uses DataInputStream and DataOutputStream to communicate with the client.
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  *
  */
 public class TCPSummationServerApp {

@@ -29,7 +29,7 @@ import part3Server.controller.CustomerDataManager;
  *    return a customer object to the client.
  * 4. The server will log all its operations and interactions with the clients.
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class TCPCustomerServerByIdApp {
 

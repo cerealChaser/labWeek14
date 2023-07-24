@@ -12,7 +12,7 @@ import part3Model.Product;
 /**
  * This is a TCP client class that process a list of object as complex data .
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  *
  */
 public class TCPProductsClientApp {

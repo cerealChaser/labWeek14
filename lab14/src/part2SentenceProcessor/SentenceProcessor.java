@@ -3,7 +3,7 @@ package part2SentenceProcessor;
 /**
  * A class for processing sentences and performing analysis.
  * 
- * Author: Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class SentenceProcessor {
 	

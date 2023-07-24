@@ -10,7 +10,7 @@ import java.io.Serializable;
  *    These attributes are private.
  * 3. Add getters and setters for all attributes.
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class Customer implements Serializable {
 	

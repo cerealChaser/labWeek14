@@ -4,7 +4,7 @@ package part1controller;
 /**
  * This is a controller class that manage the arithmetic operations.
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  *
  */
 

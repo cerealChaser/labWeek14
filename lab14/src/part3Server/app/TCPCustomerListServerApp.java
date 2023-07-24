@@ -27,7 +27,7 @@ import part3Server.controller.CustomerDataManager;
  *    customers to the client.
  * 2. The server will log all operations and interactions with the client.
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class TCPCustomerListServerApp {
 

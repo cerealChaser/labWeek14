@@ -21,7 +21,7 @@ import part3Server.controller.ProductDataManager;
  * 
  * The server uses a TCP socket connection for communication.
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class TCPProductServerApp {
 

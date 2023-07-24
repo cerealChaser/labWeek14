@@ -43,7 +43,7 @@ import part3Model.Customer;
  * 5. Additional methods might be needed. Add those methods 
  *    accordingly.
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class CustomerDataManager {
 

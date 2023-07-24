@@ -20,7 +20,7 @@ import part3Model.Customer;
  * 3. Your solution shall also demonstrate non-existing customers.
  * 4. Display the details of the object.
  * 
- * @author Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class TCPCustomerClientByIdApp {
 	

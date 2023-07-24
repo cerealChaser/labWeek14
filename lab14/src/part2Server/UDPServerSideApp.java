@@ -10,20 +10,10 @@ import part2SentenceProcessor.SentenceProcessor;
 /**
  * An example of server-side application using UDP.
  * This program counts the number of vowels, consonants, and punctuations
- *     in a sentence received from the client and 
- *     sends the results back to the client.
+ * in a sentence received from the client and 
+ * sends the results back to the client.
  * 
- * How to run this application:
- * 1. Open terminal
- * 2. Change to directory /workspace-dad/udpdemo/bin
- * 3. java UDPServerSideApp
- * 4. Initial output: UDPServerSideApp: Demonstration of 
- *    UDP Server-Side Application.
- * 5. Final output: 
- *    Message received: I am Lau Chi Chien, I am a handsome guy !!!
- *    Number of vowels: 14, consonants: 15, punctuations: 3.
- *    
- * Author: Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class UDPServerSideApp {
 

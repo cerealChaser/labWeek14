@@ -10,7 +10,7 @@ import java.net.InetAddress;
  * This program sends a sentence to the UDP server and 
  *     receives the analysis result.
  * 
- * Author: Lau Chi Chien
+ * @author MacaurelNoelMakRaymund
  */
 public class UDPClientSideApp {
 
